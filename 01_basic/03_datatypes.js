@@ -13,7 +13,7 @@ console.log(typeof IsloggedIn);
 
 let state;
 console.log(typeof state);
-
+ 
 let number=null
 console.log(typeof number);
 
